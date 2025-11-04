@@ -72,7 +72,7 @@ The proposed design improves trust and affordability while supporting revenue th
 
 ## 📄 Files  
 
-- [`Assessment-Co-Living-Space.pdf`](./Assessment-Co-Living-Space.pdf) — Full report and presentation deck  
+- [./Assessment-Co-Living-Space.pdf](https://github.com/Anuj-Shelly/co-living-space-product-strategy/blob/main/Co%20living%20space%20capstone.pdf)) — Full report and presentation deck  
 
 ---
 
